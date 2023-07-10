@@ -13,6 +13,7 @@
 		859A82A92A57D2C700A8E007 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 859A82A82A57D2C700A8E007 /* Preview Assets.xcassets */; };
 		859A82CE2A57E25700A8E007 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 859A82CD2A57E25700A8E007 /* HomeView.swift */; };
 		859A82D02A57FB1700A8E007 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 859A82CF2A57FB1700A8E007 /* Color.swift */; };
+		859A82D22A5AAA3B00A8E007 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 859A82D12A5AAA3B00A8E007 /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,7 @@
 		859A82B82A57D2C700A8E007 /* Movie AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Movie AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		859A82CD2A57E25700A8E007 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		859A82CF2A57FB1700A8E007 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		859A82D12A5AAA3B00A8E007 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 				859A82A72A57D2C700A8E007 /* Preview Content */,
 				859A82CD2A57E25700A8E007 /* HomeView.swift */,
 				859A82CF2A57FB1700A8E007 /* Color.swift */,
+				859A82D12A5AAA3B00A8E007 /* DetailView.swift */,
 			);
 			path = "Movie App";
 			sourceTree = "<group>";
@@ -241,6 +244,7 @@
 				859A82CE2A57E25700A8E007 /* HomeView.swift in Sources */,
 				859A82D02A57FB1700A8E007 /* Color.swift in Sources */,
 				859A82A42A57D2C500A8E007 /* ContentView.swift in Sources */,
+				859A82D22A5AAA3B00A8E007 /* DetailView.swift in Sources */,
 				859A82A22A57D2C500A8E007 /* Movie_AppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
